@@ -3,7 +3,7 @@ Hello! I am a first year graduate student.
 <br>
 <br>
 <h1>My Portfolio</h1>
-Please Access!!!
+Please Access!!! (PC推奨)
 <h3><a href="https://nozomuorita.github.io/portfolio-site/" target="_blank">https://nozomuorita.github.io/portfolio-site/</a></h3>
 <br>
 <h1>💪SKILLS</h1>
