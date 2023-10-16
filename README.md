@@ -1,6 +1,11 @@
 <h1>Welcome to my github!</h1>
 Hello! I am a first year graduate student.
-
+<br>
+<br>
+<h1>My Portfolio</h1>
+Please Access!!!
+<h3><a>https://nozomuorita.github.io/portfolio-site/</a></h3>
+<br>
 <h1>💪SKILLS</h1>
 Please see portfolio site for specific skills
 <br>
@@ -11,7 +16,7 @@ Please see portfolio site for specific skills
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozomuorita&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nozomuorita&theme=merko&show_icons=true" />
-</p>👤
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nozomuorita&margin-w=5)](https://github.com/nozomuorita/)
 
