@@ -2,7 +2,7 @@
 Hello! I am a first year graduate student.
 <br>
 <br>
-<h1>My Portfolio</h1>
+<h1>My Portfolio Site!</h1>
 Please Access!!! (PC推奨)
 <h3><a href="https://nozomuorita.github.io/portfolio-site/" target="_blank">https://nozomuorita.github.io/portfolio-site/</a></h3>
 <br>
@@ -10,7 +10,7 @@ Please Access!!! (PC推奨)
 Please see portfolio site for specific skills
 <br>
 <br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,r,php,c,cpp,html,css,js,react,threejs,bootstrap,mysql,vite,unity,vscode,latex,heroku,git,github,bots," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,r,php,c,cpp,html,css,js,react,threejs,bootstrap,mysql,vite,unity,vscode,latex,git,github,bots," />
 
 <h1>📈Status</h1>
 <p align="left"> 
@@ -33,6 +33,5 @@ Please see portfolio site for specific skills
       <li>
           <a href='https://twitter.com/account_0818' target='_blank'>X（Twitter）</a>
       </li>
-      <li><a href='https://github.com/nozomuorita', target='_blank'>github</a></li>
       <li><a href='https://qiita.com/nzmort1'>Qiita</a></li>
   </ul>
