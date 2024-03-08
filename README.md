@@ -5,6 +5,8 @@ Hello! I am a first year graduate student.
 <h1>My Portfolio Site!</h1>
 Please Access!!! (PC推奨)
 <h3><a href="https://nozomuorita.github.io/portfolio-site/" target="_blank">https://nozomuorita.github.io/portfolio-site/</a></h3>
+Hiding the University name ver
+<h3><a href="https://nozomuorita.github.io/ps2/" target="_blank">https://nozomuorita.github.io/ps2/</a></h3>
 <br>
 <h1>💪SKILLS</h1>
 Please see portfolio site for specific skills
